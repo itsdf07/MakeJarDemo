@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MakeJarDemo</string>
+    <string name="demo_description">这个Demo主要代码展示了如何对一个Project的Module进行打包成Jar包提供给其他Project使用</string>
 </resources>
